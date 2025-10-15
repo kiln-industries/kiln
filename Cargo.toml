@@ -1,0 +1,16 @@
+[workspace]
+members = [
+    "programs/*",
+    "libs/thermal-core",
+    "libs/pressure-cooker",
+    "cli"
+]
+
+[workspace.dependencies]
+anchor-lang = "0.29.0"
+solana-program = "=1.17.0"
+bytemuck = "1.14"
+# High-performance crypto primitives for sintering
+blake3 = "1.5"
+# Parallel processing for intake feeds
+rayon = "1.8"
