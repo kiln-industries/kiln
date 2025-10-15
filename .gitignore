@@ -1,0 +1,8 @@
+target/
+node_modules/
+.env
+*.log
+**/*.rs.bk
+main.py
+test-ledger/
+debug_heatmaps/
