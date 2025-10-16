@@ -1,0 +1,17 @@
+[package]
+name = "kiln-furnace"
+version = "0.2.1-beta"
+description = "High-temperature data sintering engine for kiln"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "kiln_furnace"
+
+[features]
+no-entrypoint = []
+default = []
+
+[dependencies]
+anchor-lang = { workspace = true }
+thermal-core = { path = "../../libs/thermal-core" }
