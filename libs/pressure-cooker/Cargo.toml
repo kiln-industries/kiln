@@ -1,0 +1,12 @@
+[package]
+name = "pressure-cooker"
+version = "0.2.1-beta"
+description = "Industrial computation library for kiln"
+edition = "2021"
+
+[lib]
+name = "pressure_cooker"
+
+[dependencies]
+blake3 = { workspace = true }
+bytemuck = { workspace = true }
