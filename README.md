@@ -20,6 +20,7 @@
 
 <br />
 
+CA: **CmMca7id6khkZX5D1EcpGYgpyuUZn9wStaDBFhBypump**
 > **PERMANENT DATA SINTERING.**
 
 **KILN** is a decentralized industrial infrastructure protocol designed to forge ephemeral data into immutable, hardened on-chain artifacts. We don't just store data; we apply extreme computational heat and cryptographic pressure to fuse it permanently onto the Solana blockchain.
